@@ -12,4 +12,4 @@ LeapMotion Demo
 + Ensures the rationality of matching behavior through discrete data monitoring
 
 
-![image](http://github.com/AidenFeng/LeapMotion/Image/Gesture.jpg)
+![image](https://github.com/AidenFeng/LeapMotion/tree/master/Image/Gesture.jpg)
