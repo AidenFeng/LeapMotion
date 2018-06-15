@@ -10,3 +10,6 @@ LeapMotion Demo
 + Handler for gesture response
 + Improved accuracy of matching through thresholds
 + Ensures the rationality of matching behavior through discrete data monitoring
+
+
+![image](http://github.com/AidenFeng/LeapMotion/Image/Gesture.jpg)
