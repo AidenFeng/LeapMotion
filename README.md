@@ -11,5 +11,4 @@ LeapMotion Demo
 + Improved accuracy of matching through thresholds
 + Ensures the rationality of matching behavior through discrete data monitoring
 
-
-![avatar](https://github.com/AidenFeng/LeapMotion/tree/master/Image/Gesture.jpg)
+<img alt="Image" src="https://github.com/AidenFeng/LeapMotion/tree/master/Image/Gesture.jpg" width="660" />
